@@ -1,0 +1,34 @@
+h3 {
+  font-family: "Dancing Script", cursive;
+  font-size: 3rem;
+}
+.navbar {
+  background-color: #979a9a;
+}
+
+.quem-somos {
+  background-color: #fcf3cf;
+}
+.margin {
+  padding: 30px;
+}
+
+.text {
+  margin-top: 30px;
+}
+
+.servicos-item {
+  padding: 30px;
+}
+.contatos {
+  background-color: #fcf3cf;
+}
+
+.link-decoration {
+  text-decoration: none;
+  color: #212529;
+}
+
+.bg-footer {
+  background-color: #979a9a;
+}
