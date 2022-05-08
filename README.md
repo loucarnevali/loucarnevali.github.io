@@ -1,2 +1,7 @@
 # dio-desafio-bootstramp
-Atividade usando bootstramp
+Criação de um site de uma Escola de Música.
+
+Tecnologias utilizadas:
+* HTML;
+* CSS;
+* Bootstrap;
