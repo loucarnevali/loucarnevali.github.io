@@ -1,4 +1,5 @@
-# dio-desafio-bootstramp
+# DIO - Desafio BootStrap 
+
 Criação de um site de uma Escola de Música.
 
 Tecnologias utilizadas:
